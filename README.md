@@ -26,7 +26,9 @@ Express.js: Web framework for building RESTful APIs.
 MongoDB: NoSQL database for cargo shipments and space station inventories.
 MySQL: Relational database for handling trade transactions.
 
+# clone project
 git clone https://github.com/yourusername/circlepe.git
+
 cd circlepe
 
 npm install
