@@ -7,7 +7,7 @@ This repository contains the backend for the Intergalactic Trade Network, which 
 
 Design Decisions and Architecture
 1. Architectural Overview
-The system is designed using a microservice approach, where each feature is encapsulated in a dedicated service (Trade, Cargo, Inventory) to ensure scalability and maintainability. The services communicate with databases and Kafka for real-time processing.
+The system is designed using a microservice approach, where each feature is encapsulated in a dedicated service (Trade, Cargo, Inventory) to ensure scalability and maintainability. The services communicate with databases.
 
 Key components:
 
